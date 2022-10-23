@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    text-align: left;
+}
+.header button{
+    float: right;
+    border: 3px solid white;
+}
+.header h1{
+    display: inline;
+}
+#start , #status{
+    font-size: 22px;
+}
